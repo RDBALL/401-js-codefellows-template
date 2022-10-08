@@ -6,7 +6,7 @@
 
 * Commonly used dependencies are located in [dependencies.json](dependencies.json)
 
-* `src `folder (empty) created
+* `src` folder (empty) created
 
 * `.github` workflows folder hold JavaScript testing action
 
